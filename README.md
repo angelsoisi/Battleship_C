@@ -1,5 +1,5 @@
 # Battleship_C
-I made a Battleship game for c using dynamic memory 
+I made a Battleship game in c using dynamic memory 
 The purpose of this activity was to demostrate how was my skill when it came to working with dynamic memory, 
 it was a test from my class in C, and i was asked different requirementes to finish the activity.
 The first requirement only use pointers, it was forbbiden the use of []
